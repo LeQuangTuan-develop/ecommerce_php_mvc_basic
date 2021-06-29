@@ -1,0 +1,4 @@
+- meta title không thay đổi giữa các link
+- những lần chuyển hướng không thay đổi vị trí đánh dấu trỏ nút
+- font chữ không phù hợp với tiếng việt ( trang client )
+- Update mô tả vào db thừa những thẻ html
